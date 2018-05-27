@@ -1,0 +1,13 @@
+button {
+  padding: 5px;
+  width: 100%;
+  background-color: rgba(60, 60, 60, 1);
+  border: none;
+  transition: all .5s;
+  color: white;
+  font-weight: 200;
+}
+
+button:hover {
+  background-color: rgba(60, 255, 60, 1);
+}

@@ -1,0 +1,24 @@
+.description {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.result-pass {
+  color: rgba(0, 210, 0, 1);
+  transition: all 1s;
+}
+
+.result-fail {
+  color: rgba(210, 0, 0, 1);
+  transition: all 1s;
+}
+
+.result-pending {
+  color: rgba(220, 220, 0, 1);
+  transition: all 1s;
+}
+
+.result-default {
+  color: rgba(180, 180, 180, 1);
+  transition: all 1s;
+}

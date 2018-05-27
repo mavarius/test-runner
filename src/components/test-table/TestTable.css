@@ -1,0 +1,10 @@
+.test-table {
+  width: 80vw;
+  margin: 50px auto;
+}
+
+table, th, td {
+  padding: 5px;
+  border: 1px solid lightgray;
+  border-collapse: collapse;
+}
